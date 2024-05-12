@@ -1,0 +1,18 @@
+h2 {
+    color: black; 
+}
+h5 {
+ color: darkorange; border: 1px solid blue;
+}
+p {
+color: blue;
+}
+b {
+    color: black;
+} 
+em {
+    color: chocolate
+}
+button {
+    background color: green;
+}
